@@ -1,14 +1,7 @@
 [
-{
-"god": [
-"duca",
-"fireeagle"
-],
-"silver": [ 
-"xCommando",
-],
-"toxic": [
-"nekoson"
-]
-}
+  {
+    "god": ["duca", "fireeagle"],
+    "silver": ["xCommando"],
+    "toxic": ["nekoson"]
+  }
 ]
